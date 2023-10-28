@@ -1,4 +1,4 @@
 [submodule "B"]
 	path = B
 	url = git@github.com:dileep9490/B.git
-  branch = testing-sub
+  branch = testing
